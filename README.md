@@ -4,6 +4,10 @@ An interactive Formula 1-inspired ticket reservation system built with Python an
 
 Users can explore the 2026 race season, search and filter races, check booking availability, select ticket experiences, apply promo codes, calculate VAT, confirm reservations, and download receipts.
 
+## 🚀 Live Demo
+
+[Open the live Streamlit app](https://formula1-reservation-system-gaauyfv4efp7cbnnnx2yx5.streamlit.app/)
+
 ## 🚀 Features
 
 - Automatic race availability updates
